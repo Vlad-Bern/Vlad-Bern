@@ -1,13 +1,24 @@
-# Hiiii, I'm Vladber!
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Vladber profile banner" />
+</p>
 
-Welcome to my cozy little corner, where I keep the worlds I dream up.
+<p align="center">
+  <b>Welcome to my cozy little corner, where I keep the worlds I dream up.</b>
+</p>
 
-Most of my main repositories are private.
+<p align="center">
+  Most of my main repositories are private.
+</p>
 
-So... **Get the hell outta here!**
+<p align="center">
+  <b>So... Get the hell outta here!</b>
+</p>
 
----
+<p align="center">
+  <img src="./assets/blink.gif" width="220" alt="Animated pixel girls" />
+</p>
 
-わざわざこのアニメっぽい言葉を翻訳したのか！？
-
-出てけって言っただろうが！！！
+<p align="center">
+  わざわざこのアニメっぽい言葉を翻訳したのか！？<br>
+  出てけって言っただろうが！！！
+</p>
