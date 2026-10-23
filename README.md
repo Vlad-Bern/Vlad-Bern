@@ -1,24 +1,24 @@
+<h1 align="center">Hiiii, I'm Vladber! ♡</h1>
+
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Vladber profile banner" />
+  Welcome to my cozy little corner, where I keep the worlds I dream up.
 </p>
 
 <p align="center">
-  <b>Welcome to my cozy little corner, where I keep the worlds I dream up.</b>
+  Most of my main repositories are <strong>private</strong>.
 </p>
 
 <p align="center">
-  Most of my main repositories are private.
+  <strong>So... Get the hell outta here! ♡</strong>
 </p>
 
-<p align="center">
-  <b>So... Get the hell outta here!</b>
-</p>
+---
 
-<p align="center">
-  <img src="./assets/blink.gif" width="220" alt="Animated pixel girls" />
-</p>
+<details>
+<summary>Don't open this. Seriously.</summary>
 
-<p align="center">
-  わざわざこのアニメっぽい言葉を翻訳したのか！？<br>
-  出てけって言っただろうが！！！
-</p>
+わざわざこのアニメっぽい言葉を翻訳したのか！？
+
+**出てけって言っただろうが！！！**
+
+</details>
