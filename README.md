@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hiiii, I'm Vladber!
 
-<!--
-**Vlad-Bern/Vlad-Bern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my cozy little corner, where I keep the worlds I dream up.
 
-Here are some ideas to get you started:
+Most of my main repositories are private.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So... **Get the hell outta here!**
+
+---
+
+わざわざこのアニメっぽい言葉を翻訳したのか！？
+
+出てけって言っただろうが！！！
