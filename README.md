@@ -1,7 +1,11 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="245">
-      <img src="./assets/mai-visible-both.png" width="250" alt="Май — оригинальный рисунок горничной с чёрными линиями и светлой контрастной обводкой для любых тем GitHub" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/mai-dark-new.png" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/Mai-black-lines.png" />
+        <img src="./assets/Mai-black-lines.png" width="250" alt="Май — оригинальный рисунок горничной, адаптированный для светлой и тёмной темы" />
+      </picture>
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
