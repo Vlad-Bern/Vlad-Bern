@@ -1,8 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="245">
-      <img src="./assets/mai-dark-new.png#gh-dark-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для тёмной темы" />
-      <img src="./assets/Mai-black-lines.png#gh-light-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для светлой темы" />
+      <img src="./assets/mai-visible-both.png" width="250" alt="Май — оригинальный рисунок горничной с чёрными линиями и светлой контрастной обводкой для любых тем GitHub" />
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
