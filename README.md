@@ -2,7 +2,7 @@
   <tr>
     <td align="center" valign="middle" width="245">
       <img src="./assets/mai-dark-new.png#gh-dark-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для тёмной темы" />
-      <img src="./assets/mai-light-exact.png#gh-light-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для светлой темы" />
+      <img src="./assets/Mai-black-lines.png#gh-light-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для светлой темы" />
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
