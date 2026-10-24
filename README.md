@@ -1,11 +1,8 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="245">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/mai-dark-new.png" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/Mai-black-lines.png" />
-        <img src="./assets/Mai-black-lines.png" width="250" alt="Май — оригинальный рисунок горничной, адаптированный для светлой и тёмной темы" />
-      </picture>
+      <img src="./assets/mai-dark-new.png#gh-dark-mode-only" width="250" alt="Май — светлый рисунок для тёмной темы GitHub" />
+      <img src="./assets/Mai-black-lines.png#gh-light-mode-only" width="250" alt="Май — оригинальный рисунок с чёрными линиями для светлой темы GitHub" />
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
