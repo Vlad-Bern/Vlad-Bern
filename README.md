@@ -1,8 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="245">
-      <img src="./assets/mai-dark.webp#gh-dark-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для тёмной темы" />
-      <img src="./assets/mai-light-contrast.webp#gh-light-mode-only" width="250" alt="Май — авторский карандашный рисунок горничной для светлой темы" />
+      <img src="./assets/mai-universal.webp" width="250" alt="Май — авторский карандашный рисунок горничной с очками, представляющей меню" />
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
