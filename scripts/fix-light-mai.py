@@ -14,3 +14,5 @@ for y in range(im.height):
         p[x, y] = (0, 0, 0, 0 if a < 5 else max(160, a))
 im.save(dst, "PNG", optimize=True)
 print(f"saved {dst}: {im.width}x{im.height}")
+
+# Trigger rebuilt art workflow.
