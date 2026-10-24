@@ -1,7 +1,11 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="245">
-      <img src="./assets/maid-menu.webp" width="250" alt="Горничная в очках и с косами представляет меню" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/mai-dark.webp" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/mai-light.webp" />
+        <img src="./assets/mai-light.webp" width="250" alt="Май — авторский карандашный рисунок горничной с очками, она показывает рукой на меню" />
+      </picture>
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
