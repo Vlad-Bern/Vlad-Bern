@@ -3,8 +3,8 @@
     <td align="center" valign="middle" width="245">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/mai-dark.webp" />
-        <source media="(prefers-color-scheme: light)" srcset="./assets/mai-light.webp" />
-        <img src="./assets/mai-light.webp" width="250" alt="Май — авторский карандашный рисунок горничной с очками, она показывает рукой на меню" />
+        <source media="(prefers-color-scheme: light)" srcset="./assets/mai-light-contrast.webp" />
+        <img src="./assets/mai-light-contrast.webp" width="250" alt="Май — авторский карандашный рисунок горничной с очками, она показывает рукой на меню" />
       </picture>
     </td>
     <td align="center" valign="middle" width="370">
