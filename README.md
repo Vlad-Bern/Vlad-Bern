@@ -6,9 +6,7 @@
     </td>
     <td align="center" valign="middle" width="370">
       <h2>Today's Menu</h2>
-      <p><strong>Hiiii, I'm Vladber!</strong></p>
-      <p>Welcome to my cozy little corner,<br>where I keep the worlds I dream up.</p>
-      <p>Most of my main repositories are <strong>private</strong>.</p>
+      <p><strong>Hiiii, I'm Vladber!</strong><br><br>Welcome to my cozy little corner,<br>where I keep the worlds I dream up.<br><br>Most of my main repositories are <strong>private</strong>.</p>
       <p align="left"><img src="./assets/get-out-bubble.png" width="365" alt="So... Get the hell outta here!" /></p>
     </td>
     <td align="center" valign="middle" width="112">
