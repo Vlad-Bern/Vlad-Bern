@@ -15,3 +15,5 @@ for y in range(image.height):
             stronger_alpha = min(255, round((alpha / 255) ** 0.48 * 255))
             pixels[x, y] = (0, 0, 0, stronger_alpha)
 image.save(path, optimize=True)
+
+# Trigger GitHub Actions after workflow registration.
